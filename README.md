@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align ="center"> Olá, meu nome é Ivan Mesquita :wave:</h1>
 
-<!--
-**conectarivan/conectarivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 👨‍💻 Quem sou eu?</h2>
+<p align="center">
+  <samp> TEXTO APRESENTAÇÃO.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=vscsilva" alt="https://github.com/vscsilva" />
 
-Here are some ideas to get you started:
+  <hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 🔭 Tecnologias Utilizadas</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS%20-%2300D9FF.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JS%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  
+
+<hr>
