@@ -5,7 +5,7 @@
   <samp> TEXTO APRESENTAÇÃO.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=vscsilva" alt="https://github.com/vscsilva" />
+  <img src="https://komarev.com/ghpvc/?username=conectarivan" alt="https://github.com/conectarivan" />
 
   <hr>
 
